@@ -1,0 +1,5 @@
+[
+    {"id":"all","name":"All Products"},
+    {"id":"electronics","name":"Electronics"},
+    {"id":"fashion","name":"Fashion"}
+]

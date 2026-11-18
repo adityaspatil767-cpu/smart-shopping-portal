@@ -1,0 +1,33 @@
+
+[
+    {
+        "id": 1,
+        "name": "Smart Watch",
+        "price": 1499,
+        "category": "electronics",
+        "image": "./images/watch.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shoes",
+        "price": 999,
+        "category": "fashion",
+        "image": "./images/shoes.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "price": 799,
+        "category": "electronics",
+        "image": "./images/headphones.jpg"
+    },
+    {
+        "id": 4,
+        "name": "School Bag",
+        "price": 599,
+        "category": "fashion",
+        "image": "./images/bag.jpg"
+    }
+]
+
+
